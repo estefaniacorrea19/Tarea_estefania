@@ -39,4 +39,4 @@ def promedio (temp,ciudad,sem):
 
 #Llamamos una variable que guardara la función con los parametros que elijamos
 prom_final = (promedio(temperatura,0,0))
-print(prom_final) #Imprimimos nuestro variable prom_final  en pantalla
+print(prom_final) #Imprimimos la temperatura final
